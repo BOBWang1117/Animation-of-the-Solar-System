@@ -46,7 +46,7 @@
 
 ## **Example:**
 
-1. ![gif1](./gif/solar-min.gif)
+![gif1](./gif/solar-min.gif)
 
    
 
