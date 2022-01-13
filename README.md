@@ -2,11 +2,7 @@
 
 -----
 
->  Team: 
->  
->  [@Hongbo Wang ](https://github.com/BOBWang1117) 
->  
->  @Junfeng Liu
+>  Team: [@Hongbo Wang ](https://github.com/BOBWang1117) @Junfeng Liu
 >
 >  
 
@@ -23,7 +19,7 @@
 - Computer Language: C++, OpenGL, ...
 - Project Name: Animation of the Solar System
 - Time: 2020/12/12
-- Description: In this project, you are going to implement a single cycle CPU simulator called MiniCPU using C language. Your MiniCPU will demonstrate some functions of MIPS processors as well as the principle of the datapath and the control signals. MiniCPU should read in a file containing MIPS machine codes (in the format specified below) and simulate what the MIPS processor does cycle-by-cycle. AC file called component.c will be provided to you which implementing each component of the single-cycle datapath, you are required to modify and fill in the body of the functions in this file.
+- Description: This project aims to get you familiar with transformations, texture mapping, lighting and window event handling. This virtual solar system consists of the Sun, eight planets (Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune), the Moon and a star-sphere
 
 ## **Dependencies:** 
 
@@ -50,7 +46,7 @@
 
 ## **Example:**
 
-![gif1](./gif/solar-min.gif)
+1. ![gif1](./gif/solar-min.gif)
 
    
 
